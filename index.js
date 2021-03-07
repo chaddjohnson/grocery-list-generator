@@ -88,7 +88,6 @@ const processRecipe = async (recipeSlug) => {
         ...map,
         [key]: {
           ...omit(ingredient, ['recipe']),
-          // quantity: ingredient.quantity
           quantity: quantity + ingredientQuantity,
           recipes: recipes.concat(ingredient.recipe)
         }
@@ -107,7 +106,7 @@ const processRecipe = async (recipeSlug) => {
     name,
     category,
     `${quantity} ${unit}`,
-    recipes.join(', ')
+    recipes.join('\n')
   ]);
   const recipes = uniq(
     flatten(ingredients.map(({ recipes }) => recipes))
