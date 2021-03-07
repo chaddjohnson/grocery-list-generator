@@ -1,0 +1,45 @@
+name: "Crock Pot Chicken Noodle Veggie Soup"
+ingredients:
+  - name: Chicken
+    category: Meat
+    quantity: 1
+    unit: lb
+    options:
+      - Chicken Thighs
+      - Chicken Drumsticks
+  - name: Carrot
+    category: Produce
+    quantity: 4
+    unit: whole
+  - name: Onion
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Celery
+    category: Produce
+    quantity: 1
+    unit: bag
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Chicken Bouillon
+    category: Miscellaneous
+    quantity: 1
+    unit: can
+  - name: White wine
+    category: wine
+    quantity: 0.025
+    unit: bottle
+  - name: Big Wide Egg Noodles
+    category: Legumes & Pasta
+    quantity: 1
+    unit: package
+  - name: Spinach
+    category: Produce
+    quantity: 1
+    unit: bag
+  - name: Bread
+    category: Bread
+    quantity: 0.2
+    unit: loaf

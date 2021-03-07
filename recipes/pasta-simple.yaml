@@ -1,0 +1,26 @@
+name: "Pasta (simple)"
+ingredients:
+  - name: Spaghetti Noodles
+    category: 1
+    quantity: 1
+    unit: package
+  - name: Cherry Tomatoes
+    category: Produce
+    quantity: 10
+    unit: whole
+  - name: Parmasean Cheese
+    category: Dairy
+    quantity: 0.25
+    unit: block
+  - name: Olive Oil
+    category: Oils
+    quantity: 0.05
+    unit: bottle
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Fresh Basil
+    category: Fresh Basil
+    quantity: 1
+    unit: package

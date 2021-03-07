@@ -1,0 +1,41 @@
+name: "Pasta (complex)"
+ingredients:
+  - name: Sauce
+    category: Legumes & Pasta
+    quantity: 0.5
+    unit: can
+    options:
+      - White Sauce
+      - Red Sauce
+  - name: Onion
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Bell Pepper
+    category: Produce
+    quantity: 0.5
+    unit: whole
+  - name: Spinach
+    category: Produce
+    quantity: 0.5
+    unit: bag
+  - name: Zucchini
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Mushroom
+    category: Produce
+    quantity: 6
+    unit: whole
+  - name: Chicken
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Pasta Noodles
+    category: Legumes & Pasta
+    quantity: 1
+    unit: package

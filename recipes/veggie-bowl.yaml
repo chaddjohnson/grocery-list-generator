@@ -1,0 +1,41 @@
+name: "Veggie Bowl"
+ingredients:
+  - name: Leafy Greens
+    category: Produce
+    quantity: 1
+    unit: bunch
+    options:
+      - Kale
+      - Lacinato Kale
+      - Spinach
+      - Arugula
+  - name: Carb
+    category: Produce
+    quantity: 1
+    unit: whole
+    options:
+      - Acorn Squash
+      - Butternut Squash
+      - Sweet Potato
+  - name: Sweet Miso Paste
+    category: Miscellaneous
+    quantity: 0.5
+    unit: container
+  - name: Beans
+    category: Legumes & Pasta
+    quantity: 1
+    unit: can
+    options:
+      - Black Beans
+      - Chickpea Beans
+  - name: Grain
+    category: Legumes & Pasta
+    quantity: 1
+    unit: cup
+    options:
+      - Brown rice
+      - Farro
+  - name: Sauce (improvised from whatever is in the fridge)
+    category: Legumes & Pasta
+    quantity: 0.5
+    unit: can

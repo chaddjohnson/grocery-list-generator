@@ -1,0 +1,20 @@
+name: "White Fish and Lentils"
+ingredients:
+  - name: White Fish
+    category: Meat
+    quantity: 2
+    unit: fillet
+    options:
+      - Cod
+      - Orange Roughy
+  - name: Lentils
+    category: Produce
+    quantity: 0.5
+    unit: package
+  - name: Green Vegetable
+    category: Produce
+    quantity: 1
+    unit: bunch
+    options:
+      - Broccoli
+      - Brussel Sprouts

@@ -1,0 +1,34 @@
+name: "Chicken Sour Cream Enchiladas"
+ingredients:
+  - name: Chicken Thighs
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Mushrooms
+    category: Produce
+    quantity: 0.5
+    unit: package
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Spinach
+    category: Produce
+    quantity: 0.5
+    unit: bag
+  - name: Refried Black Beans
+    category: Legumes & Pasta
+    quantity: 1
+    unit: can
+  - name: Corn Tortillas
+    category: Bread
+    quantity: 0.5
+    unit: package
+  - name: Sour Cream
+    category: Dairy
+    quantity: 0.5
+    unit: container
+  - name: Scallions
+    category: Produce
+    quantity: 0.5
+    unit: bunch

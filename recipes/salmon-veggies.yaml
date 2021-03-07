@@ -1,0 +1,17 @@
+name: "Salmon and Veggies"
+ingredients:
+  - name: Salmon Fillets
+    category: Meat
+    quantity: 2
+    unit: fillet
+  - name: Sweet Potato
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Green Vegetable
+    category: Produce
+    quantity: 1
+    unit: bunch
+    options:
+      - Asparagus
+      - Broccoli

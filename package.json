@@ -1,0 +1,10 @@
+{
+  "name": "grocery-list-generator",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv-stringify": "^5.6.2",
+    "fs-extra": "^9.1.0",
+    "lodash": "^4.17.20",
+    "yamljs": "^0.3.0"
+  }
+}

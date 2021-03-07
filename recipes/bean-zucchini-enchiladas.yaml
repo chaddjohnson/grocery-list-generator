@@ -1,0 +1,30 @@
+name: "Bean and Zucchini Enchiladas"
+ingredients:
+  - name: Black Beans
+    category: Legumes & Pasta
+    quantity: 1
+    unit: can
+  - name: Flour Tortillas
+    category: Bread
+    quantity: 0.5
+    unit: package
+  - name: Zucchini
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Taco Sauce
+    category: Miscellaneous
+    quantity: 1
+    unit: package
+  - name: Brown Rice
+    category: Legumes & Pasta
+    quantity: 1
+    unit: cup
+  - name: Sour Cream
+    category: Dairy
+    quantity: 0.5
+    unit: container
+  - name: Scallions
+    category: Produce
+    quantity: 0.5
+    unit: bunch

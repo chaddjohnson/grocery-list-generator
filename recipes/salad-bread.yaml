@@ -1,0 +1,42 @@
+name: "Salad and Bread"
+ingredients:
+  - name: Leafy Greens
+    category: Produce
+    quantity: 1
+    unit: bunch
+    options:
+      - Kale
+      - Lacinato Kale
+      - Spinach
+      - Arugula
+  - name: Parmasean Cheese
+    category: Dairy
+    quantity: 1
+    unit: block
+  - name: Salted Roasted Almonds
+    category: Nuts
+    quantity: 0.25
+    unit: cup
+  - name: Dried Fruit
+    category: Dried Fruit
+    quantity: 0.25
+    unit: cup
+    options:
+      - Raisins
+      - Dried Figs
+  - name: Balsamic Vinegar
+    category: Miscellaneous
+    quantity: 0.05
+    unit: bottle
+  - name: Olive Oil
+    category: Oils
+    quantity: 0.05
+    unit: bottle
+  - name: Avocado
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Bread
+    category: Bread
+    quantity: 0.2
+    unit: loaf

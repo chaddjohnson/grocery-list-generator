@@ -1,0 +1,42 @@
+name: "Tacos"
+ingredients:
+  - name: Tortillas
+    category: Bread
+    quantity: 1
+    unit: loaf
+    options:
+      - Flour Tortillas
+      - Corn Tortillas
+  - name: Protein
+    category: Meat
+    quantity: 1
+    unit: lb
+    options:
+      - Pork Tenderloin
+      - Beef Steak
+      - Beans
+      - Chicken Thighs
+  - name: Red Cabbage
+    category: Produce
+    quantity: 0.5
+    unit: whole
+  - name: Tomato
+    category: Produce
+    quantity: 10
+    unit: whole
+  - name: Onion
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Avocado
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Cheese
+    category: Dairy
+    quantity: 0.25
+    unit: block
+  - name: Spinach
+    category: Produce
+    quantity: 0.5
+    unit: bag

@@ -1,0 +1,20 @@
+name: "Steak and Potatoes"
+ingredients:
+  - name: Beefsteak
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Golden Potatoes
+    category: Produce
+    quantity: 5
+  - name: Milk
+    category: Dairy
+    quantity: 0.1
+    unit: gallon
+  - name: Green Vegetable
+    category: Produce
+    quantity: 1
+    unit: bunch
+    options:
+      - Green Beans
+      - Asparagus

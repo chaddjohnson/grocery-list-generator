@@ -1,0 +1,29 @@
+name: "Shrimp, Orzo, and Zucchini"
+ingredients:
+  - name: Raw Deveined Shrimp
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Orzo Pasta
+    category: Legumes & Pasta
+    quantity: 1
+    unit: package
+  - name: Zucchini
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Cheese
+    category: Dairy
+    quantity: 0.25
+    unit: container
+    options:
+      - Marscapone
+      - Crème Fraîche
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Sambal Olek
+    category: Miscellaneous
+    quantity: 0.2
+    unit: container

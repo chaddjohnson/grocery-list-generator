@@ -1,0 +1,202 @@
+name: "General Items"
+ingredients:
+  - name: Bread
+    category: Bread
+    quantity: 2
+    unit: loaf
+    fixedYield: true
+  - name: Mayonnaise
+    category: Condiments
+    quantity: 1
+    unit: jar
+    fixedYield: true
+  - name: Jam
+    category: Miscellaneous
+    quantity: 1
+    unit: jar
+    fixedYield: true
+  - name: Peanut Butter
+    category: Miscellaneous
+    quantity: 1
+    unit: jar
+    fixedYield: true
+  - name: Butter
+    category: Dairy
+    quantity: 1
+    unit: package
+    fixedYield: true
+  - name: Eggs
+    category: Dairy
+    quantity: 1
+    unit: package
+    fixedYield: true
+  - name: Parmasean Cheese
+    category: Dairy
+    quantity: 1
+    unit: block
+    fixedYield: true
+  - name: Milk
+    category: Dairy
+    quantity: 0.5
+    unit: gallon
+    fixedYield: true
+  - name: Soy Milk
+    category: Dairy
+    quantity: 0.5
+    unit: gallon
+    fixedYield: true
+  - name: Yogurt
+    category: Dairy
+    quantity: 6
+    unit: individual
+    fixedYield: true
+  - name: Black Beans
+    category: Legumes & Pasta
+    quantity: 2
+    unit: can
+    fixedYield: true
+  - name: Refried Black Beans
+    category: Legumes & Pasta
+    quantity: 1
+    unit: can
+    fixedYield: true
+  - name: Brown Rice
+    category: Legumes & Pasta
+    quantity: 1
+    unit: package
+    fixedYield: true
+  - name: Agave
+    category: Miscellaneous
+    quantity: 1
+    unit: container
+    fixedYield: true
+  - name: Chocolate
+    category: Miscellaneous
+    quantity: 1
+    unit: bar
+    fixedYield: true
+  - name: Coffee (whole beans)
+    category: Miscellaneous
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Crackers
+    category: Miscellaneous
+    quantity: 1
+    unit: package
+    fixedYield: true
+  - name: Oats
+    category: Miscellaneous
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Olive oil
+    category: Oils
+    quantity: 1
+    unit: bottle
+    fixedYield: true
+  - name: Sardines
+    category: Miscellaneous
+    quantity: 1
+    unit: container
+    fixedYield: true
+  - name: White vinegar
+    category: Miscellaneous
+    quantity: 1
+    unit: jar
+    fixedYield: true
+  - name: White wine vinegar
+    category: Miscellaneous
+    quantity: 1
+    unit: bottle
+    fixedYield: true
+  - name: Wine
+    category: Miscellaneous
+    quantity: 1
+    unit: bottle
+    fixedYield: true
+  - name: Almonds
+    category: Nuts
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Raisins or dried currants
+    category: Nuts
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Walnuts
+    category: Nuts
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Apples
+    category: Produce
+    quantity: 3
+    unit: whole
+    fixedYield: true
+  - name: Avocado
+    category: Produce
+    quantity: 5
+    unit: whole
+    fixedYield: true
+  - name: Berries
+    category: Produce
+    quantity: 2
+    unit: package
+    fixedYield: true
+  - name: Carrot
+    category: Produce
+    quantity: 10
+    unit: whole
+    fixedYield: true
+  - name: Clementines or Mandarins
+    category: Produce
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Garlic
+    category: Produce
+    quantity: 6
+    unit: bulb
+    fixedYield: true
+  - name: Cherry Tomatoes
+    category: Produce
+    quantity: 24
+    unit: whole
+    fixedYield: true
+  - name: Kale
+    category: Produce
+    quantity: 3
+    unit: bunch
+    fixedYield: true
+  - name: Lemons
+    category: Produce
+    quantity: 2
+    unit: whole
+    fixedYield: true
+  - name: Mushrooms
+    category: Produce
+    quantity: 12
+    unit: whole
+    fixedYield: true
+  - name: Onions
+    category: Produce
+    quantity: 1
+    unit: whole
+    fixedYield: true
+  - name: Red Bell Pepper
+    category: Produce
+    quantity: 1
+    unit: whole
+    fixedYield: true
+  - name: Spinach
+    category: Produce
+    quantity: 1
+    unit: bag
+    fixedYield: true
+  - name: Sweet Potato
+    category: Produce
+    quantity: 2
+    unit: whole
+    fixedYield: true

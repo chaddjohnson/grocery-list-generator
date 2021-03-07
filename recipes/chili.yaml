@@ -1,0 +1,41 @@
+name: "Chili"
+ingredients:
+  - name: Onion
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Cherry Tomatoes
+    category: Produce
+    quantity: 10
+    unit: whole
+  - name: Tomato Paste
+    category: Miscellaneous
+    quantity: 1
+    unit: can
+  - name: Kidney Beans
+    category: Legumes & Pasta
+    quantity: 1
+    unit: can
+  - name: Veggie Stock
+    category: Miscellaneous
+    quantity: 1
+    unit: can
+  - name: Carrot
+    category: Produce
+    quantity: 4
+    unit: whole
+  - name: Meat
+    category: Meat
+    quantity: 1
+    unit: lb
+    options:
+      - Ground Venison
+      - Healthy Red Meat
+  - name: Bread
+    category: Bread
+    quantity: 0.2
+    unit: loaf

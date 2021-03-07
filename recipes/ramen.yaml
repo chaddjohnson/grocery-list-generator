@@ -1,0 +1,62 @@
+name: "Ramen"
+ingredients:
+  - name: Ramen noodles
+    category: Legumes & Pasta
+    quantity: 1
+    unit: package
+  - name: Bouillon
+    category: Miscellaneous
+    quantity: 1
+    unit: container
+  - name: Sweet miso paste
+    category: Miscellaneous
+    quantity: 0.5
+    unit: container
+  - name: Soy sauce
+    category: Miscellaneous
+    quantity: 0.1
+    unit: bottle
+  - name: Garlic
+    category: Produce
+    quantity: 2
+    unit: bulb
+  - name: Ginger
+    category: Produce
+    quantity: 1
+    unit: piece
+  - name: Scallions
+    category: Produce
+    quantity: 0.5
+    unit: bunch
+  - name: Vegetable
+    category: Produce
+    quantity: 0.5
+    unit: bag
+    options:
+      - Brussel Sprouts
+      - Spinach
+  - name: Vegetable
+    category: Produce
+    quantity: 1
+    options:
+      - Sweet Potato
+      - Carrot
+  - name: Meat
+    category: Meat
+    quantity: 0.5
+    unit: lb
+    options:
+      - Pork
+      - Chicken
+  - name: Mushrooms
+    category: Produce
+    quantity: 6
+    unit: whole
+  - name: Dried Seaweed
+    category: Miscellaneous
+    quantity: 1
+    unit: package
+  - name: Eggs
+    category: Dairy
+    quantity: 2
+    unit: whole
