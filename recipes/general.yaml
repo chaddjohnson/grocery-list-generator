@@ -75,7 +75,7 @@ ingredients:
     quantity: 1
     unit: bar
     fixedYield: true
-  - name: Coffee (whole beans)
+  - name: Coffee (Whole Beans)
     category: Miscellaneous
     quantity: 1
     unit: bag
@@ -90,7 +90,7 @@ ingredients:
     quantity: 1
     unit: bag
     fixedYield: true
-  - name: Olive oil
+  - name: Olive Oil
     category: Oils
     quantity: 1
     unit: bottle
@@ -100,12 +100,17 @@ ingredients:
     quantity: 1
     unit: container
     fixedYield: true
-  - name: White vinegar
+  - name: White Vinegar
     category: Miscellaneous
     quantity: 1
     unit: jar
     fixedYield: true
-  - name: White wine vinegar
+  - name: White Cooking Wine
+    category: Miscellaneous
+    quantity: 1
+    unit: bottle
+    fixedYield: true
+  - name: White Wine Vinegar
     category: Miscellaneous
     quantity: 1
     unit: bottle
@@ -120,7 +125,7 @@ ingredients:
     quantity: 1
     unit: bag
     fixedYield: true
-  - name: Raisins or dried currants
+  - name: Raisins or Dried Currants
     category: Nuts
     quantity: 1
     unit: bag
