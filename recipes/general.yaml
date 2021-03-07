@@ -106,7 +106,7 @@ ingredients:
     unit: jar
     fixedYield: true
   - name: White Cooking Wine
-    category: Miscellaneous
+    category: Wine
     quantity: 1
     unit: bottle
     fixedYield: true
@@ -116,7 +116,7 @@ ingredients:
     unit: bottle
     fixedYield: true
   - name: Wine
-    category: Miscellaneous
+    category: Wine
     quantity: 1
     unit: bottle
     fixedYield: true
@@ -185,7 +185,7 @@ ingredients:
     quantity: 12
     unit: whole
     fixedYield: true
-  - name: Onions
+  - name: Onion
     category: Produce
     quantity: 1
     unit: whole
