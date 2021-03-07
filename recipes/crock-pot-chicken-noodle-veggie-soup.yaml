@@ -28,7 +28,7 @@ ingredients:
     quantity: 1
     unit: can
   - name: White Cooking Wine
-    category: wine
+    category: Wine
     quantity: 0.025
     unit: bottle
   - name: Big Wide Egg Noodles
