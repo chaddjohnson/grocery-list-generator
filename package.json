@@ -1,6 +1,6 @@
 {
   "name": "grocery-list-generator",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "csv-stringify": "^5.6.2",
     "fs-extra": "^9.1.0",
