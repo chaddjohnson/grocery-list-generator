@@ -104,21 +104,25 @@ const processRecipe = async (recipeSlug) => {
     quotedEmpty: true
   });
   const headers = ['Ingredient', 'Category', 'Quantity', 'Recipes'];
-  let data = ingredients.map(({ name, category, quantity, unit, recipes }) => [
-    name,
-    category,
-    `${quantity} ${unit}`,
-    recipes.join('\n')
-  ]);
   const recipes = uniq(
     flatten(ingredients.map(({ recipes }) => recipes))
   ).sort();
+  let data = [];
 
-  data = recipes.map((name) => ['', '', '', name]).concat(data);
-  data = [
+  data = data.concat([
     ['', '', '', `Recipe yield factor = ${yieldFactor}`],
     ['', '', '', '']
-  ].concat(data);
+  ]);
+  data = data.concat(recipes.map((name) => ['', '', '', name]));
+  data = data.concat([['', '', '', '']]);
+  data = data.concat(
+    ingredients.map(({ name, category, quantity, unit, recipes }) => [
+      name,
+      category,
+      `${quantity} ${unit}`,
+      recipes.join('\n')
+    ])
+  );
 
   await new Promise((resolve, reject) => {
     writeStream.on('finish', () => resolve());
