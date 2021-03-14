@@ -29,7 +29,7 @@ ingredients:
     quantity: 0.05
     unit: bottle
   - name: Olive Oil
-    category: Oils
+    category: Oil
     quantity: 0.05
     unit: bottle
   - name: Avocado

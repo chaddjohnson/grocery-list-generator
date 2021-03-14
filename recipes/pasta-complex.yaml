@@ -34,7 +34,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Pasta Noodles
     category: Legumes & Pasta
     quantity: 1

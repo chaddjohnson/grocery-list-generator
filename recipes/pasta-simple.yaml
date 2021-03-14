@@ -13,13 +13,13 @@ ingredients:
     quantity: 0.25
     unit: block
   - name: Olive Oil
-    category: Oils
+    category: Oil
     quantity: 0.05
     unit: bottle
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Fresh Basil
     category: Fresh Basil
     quantity: 1

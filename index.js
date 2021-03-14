@@ -5,21 +5,23 @@ const csv = require('csv-stringify');
 
 const definiteRecipes = ['general'];
 const possibleRecipes = [
-  'steak-potatoes',
-  'salmon-veggies',
-  'white-fish-lentils',
-  'blended-veggie-soup-bread',
-  'crock-pot-chicken-noodle-veggie-soup',
-  'chili',
-  'salad-bread',
-  'chicken-sour-cream-enchiladas',
   'bean-zucchini-enchiladas',
-  'tacos',
-  'ramen',
+  'blended-veggie-soup-bread',
+  'chicken-sour-cream-enchiladas',
+  'chili',
+  'coconut-curry-chicken',
+  'crock-pot-chicken-noodle-veggie-soup',
   'pasta-complex',
   'pasta-simple',
+  'pulled-pork-banh-mi',
+  'ramen',
+  'salad-bread',
+  'salmon-veggies',
   'shrimp-orzo-zucchini',
-  'veggie-bowl'
+  'steak-potatoes',
+  'tacos',
+  'veggie-bowl',
+  'white-fish-lentils'
 ];
 const recipeCount = 3;
 const yieldFactor = 2;

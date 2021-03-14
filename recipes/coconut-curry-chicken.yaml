@@ -1,0 +1,34 @@
+name: "Coconut Curry Chicken"
+ingredients:
+  - name: Chicken
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Light Coconut Milk
+    category: Miscellaneous
+    quantity: 1.75
+    unit: cup
+  - name: Lime
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Baby Bok Choy
+    category: Produce
+    quantity: 10
+    unit: oz
+  - name: Chicken Bone Broth
+    category: Miscellaneous
+    quantity: 1.33
+    unit: cup
+  - name: Coconut Aminos
+    category: Miscellaneous
+    quantity: 2
+    unit: tbsp
+  - name: Yellow Curry Paste
+    category: Miscellaneous
+    quantity: 1
+    unit: tbsp
+  - name: Ginger
+    category: Produce
+    quantity: 1
+    unit: inch

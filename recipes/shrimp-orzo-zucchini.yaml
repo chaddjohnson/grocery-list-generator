@@ -22,7 +22,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Sambal Olek
     category: Miscellaneous
     quantity: 0.2

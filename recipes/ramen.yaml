@@ -19,7 +19,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Ginger
     category: Produce
     quantity: 1

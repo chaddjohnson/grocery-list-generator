@@ -33,13 +33,13 @@ ingredients:
     quantity: 0.2
     unit: loaf
   - name: Olive Oil
-    category: Oils
+    category: Oil
     quantity: 0.025
     unit: bottle
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Rosemary
     category: Miscellaneous
     quantity: 0.1

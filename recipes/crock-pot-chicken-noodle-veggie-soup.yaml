@@ -22,7 +22,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Chicken Bouillon
     category: Miscellaneous
     quantity: 1

@@ -7,7 +7,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Cherry Tomatoes
     category: Produce
     quantity: 10

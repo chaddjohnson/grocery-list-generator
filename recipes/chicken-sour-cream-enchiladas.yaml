@@ -11,7 +11,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 2
-    unit: bulb
+    unit: clove
   - name: Spinach
     category: Produce
     quantity: 0.5

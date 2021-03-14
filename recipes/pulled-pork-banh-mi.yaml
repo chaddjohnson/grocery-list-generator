@@ -1,0 +1,66 @@
+name: "Pulled Pork Banh Mi"
+ingredients:
+  - name: Butt Pork Roast
+    category: Meat
+    quantity: 1
+    unit: lb
+  - name: Sesame Oil
+    category: Oil
+    quantity: 0.75
+    unit: tbsp
+  - name: Chinese 5-Spice Powder
+    category: Spice
+    quantity: 0.25
+    unit: tbsp
+  - name: Ground Ginger
+    category: Spice
+    quantity: 0.125
+    unit: tbsp
+  - name: Cayenne
+    category: Spice
+    quantity: 0.125
+    unit: tsp
+  - name: Carrot
+    category: Produce
+    quantity: 1
+    unit: whole
+  - name: Radish
+    category: Produce
+    quantity: 0.25
+    unit: whole (small)
+  - name: Onion
+    category: Produce
+    quantity: 0.25
+    unit: cup
+  - name: Garlic
+    category: Produce
+    quantity: 1
+    unit: clove
+  - name: Tomato Sauce
+    category: Legumes & Pasta
+    quantity: 0.25
+    unit: cup
+  - name: Soy Sauce
+    category: Miscellaneous
+    quantity: 0.5
+    unit: tbsp
+  - name: Thai Sweet Chili Sauce
+    category: Miscellaneous
+    quantity: 1
+    unit: tbsp
+  - name: Baguettes
+    category: Bread
+    quantity: 2
+    unit: rolls
+  - name: English Cucumber
+    category: Produce
+    quantity: 0.25
+    unit: whole
+  - name: Jalapeño pepper (optional)
+    category: Produce
+    quantity: 0.5
+    unit: whole
+  - name: Cilantro
+    category: Produce
+    quantity: 0.25
+    unit: bunch

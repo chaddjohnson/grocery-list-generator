@@ -91,7 +91,7 @@ ingredients:
     unit: bag
     fixedYield: true
   - name: Olive Oil
-    category: Oils
+    category: Oil
     quantity: 1
     unit: bottle
     fixedYield: true
@@ -163,7 +163,7 @@ ingredients:
   - name: Garlic
     category: Produce
     quantity: 6
-    unit: bulb
+    unit: clove
     fixedYield: true
   - name: Cherry Tomatoes
     category: Produce
