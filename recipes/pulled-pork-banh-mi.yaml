@@ -16,7 +16,7 @@ ingredients:
     category: Spice
     quantity: 0.125
     unit: tbsp
-  - name: Cayenne
+  - name: Cayenne Pepper
     category: Spice
     quantity: 0.125
     unit: tsp
@@ -31,7 +31,7 @@ ingredients:
   - name: Onion
     category: Produce
     quantity: 0.25
-    unit: cup
+    unit: whole
   - name: Garlic
     category: Produce
     quantity: 1
