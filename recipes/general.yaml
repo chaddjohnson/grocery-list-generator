@@ -97,7 +97,7 @@ ingredients:
     fixedYield: true
   - name: Sardines
     category: Miscellaneous
-    quantity: 1
+    quantity: 4
     unit: container
     fixedYield: true
   - name: White Vinegar
@@ -120,7 +120,7 @@ ingredients:
     quantity: 1
     unit: bottle
     fixedYield: true
-  - name: Almonds
+  - name: Salted Roasted Almonds
     category: Nuts
     quantity: 1
     unit: bag
