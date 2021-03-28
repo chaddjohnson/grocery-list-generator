@@ -23,8 +23,8 @@ const possibleRecipes = [
   'veggie-bowl',
   'white-fish-lentils'
 ];
-const recipeCount = 3;
-const yieldFactor = 2;
+const recipeCount = 4;
+const yieldFactor = 1;
 
 const getRandomIngredientOption = (options) => {
   const randomOptionNumber = Math.floor(Math.random() * options.length);
@@ -119,7 +119,7 @@ const processRecipe = async (recipeSlug) => {
     ingredients.map(({ name, category, quantity, unit, recipes }) => [
       name,
       category,
-      `${quantity} ${unit}`,
+      `${(Math.round(quantity) * 100) / 100} ${unit}`,
       recipes.join('\n')
     ])
   );
